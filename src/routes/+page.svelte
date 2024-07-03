@@ -13,6 +13,7 @@ title = "something comepletely different"
 
 <input type="text" bind:value={title}>
 </div>
+<a href="/about">About my site</a>
 <style>
 .index{
     text-align: center;
